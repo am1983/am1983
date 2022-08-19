@@ -14,7 +14,7 @@
 </div>
 
 ### About Me
-Myh name is Aaron Marks. I am a full stack developer and educator from Louisville, Kentucky, USA. My pronouns are he/him.
+My name is Aaron Marks. I am a full stack developer and educator from Louisville, Kentucky, USA. My pronouns are he/him.
 
 #### I am currently ...
 - 💵 working as a Software Engineer for a consulting firm
