@@ -2,9 +2,10 @@
 
 <div id="header" align="center">
   <a href="https://www.linkedin.com/in/amarksdev/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=am1983&style=flat-square&color=blue" alt=""/>
+  <img src="https://img.shields.io/github/last-commit/am1983/am1983" alt="Last Commit" />
+  <img src="https://komarev.com/ghpvc/?username=am1983&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
 
 ---
