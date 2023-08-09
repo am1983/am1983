@@ -18,8 +18,7 @@
 My name is Aaron Marks. I am a full stack developer and educator from Louisville, Kentucky, USA. My pronouns are he/him.
 
 #### I am currently ...
-- 💵 working as a Software Engineer for a consulting firm
-- 🎓planning my next round of Data Analytics lectures for a course I am teaching
+- 💵 working as a Software Engineer
 - ⚖️ and trying very hard to balance work and life.
 
 #### Off the clock, I am ...
@@ -56,6 +55,5 @@ My name is Aaron Marks. I am a full stack developer and educator from Louisville
 ### Tools:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
